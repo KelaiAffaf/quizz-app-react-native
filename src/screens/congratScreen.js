@@ -36,9 +36,7 @@ const CongratScreen = ({ navigation }) => {
         title="Give Afaf ⭐ on github"
         type="outline"
         onPress={() => {
-          Linking.openURL(
-            "https://www.github.com/vivekkj123/quiz-app-react-native"
-          );
+          Linking.openURL("ok");
         }}
       />
       {/* <Button
